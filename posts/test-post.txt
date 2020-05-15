@@ -1,0 +1,9 @@
+Title: This is a test post
+
+Author: pepe@gmail.com
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis eros vitae maximus ultricies. Fusce quis odio ac elit elementum varius eu sed magna. 
+Pellentesque lacus tellus, scelerisque eget ultricies at, convallis eu felis. Donec tincidunt eleifend est, sed tempus est pretium et. 
+Sed fringilla, mi vitae porta gravida, ex justo vehicula ligula, et commodo enim arcu non lectus. 
+Fusce in dui fermentum, pulvinar sapien vitae, accumsan odio. Etiam et urna id ipsum blandit suscipit. Nunc finibus turpis felis, sed accumsan dolor tincidunt eget. 
+Etiam pulvinar a enim id semper. Aliquam molestie metus quis augue consequat venenatis. Nam sit amet egestas dolor.
