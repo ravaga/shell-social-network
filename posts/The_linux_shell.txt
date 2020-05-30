@@ -1,0 +1,6 @@
+Title: The_Linux_shell
+
+Author: gogs@fake.local
+
+In this post, we are going to explain some features about the Linux shell
+For example, ...
