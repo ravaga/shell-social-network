@@ -1,4 +1,7 @@
 # Shell social network
+Social network example for the Progress Assessment 5 of the edX course named "Unix Tools: Data, Software and Production Engineering" 
+
+Includes the bash script named "sn.sh". For testing purposes, please move the script to another folder and include it in the system PATH.
 
 ## Create a new social network
 
@@ -16,7 +19,7 @@ Please, run this command inside an empty directory
 
 ### Example
 
-    sn join https://github.com/ravagar2/shell-social-network
+    sn join https://github.com/ravaga/shell-social-network
 
 ## Pull in new posts and likes
 
@@ -78,7 +81,7 @@ In the file members.txt there is a relation of social network's members. Each li
 
 ## Social network example
 
-For testing purposes, we have implemented a simple social network and uploaded to GitHub (https://github.com/ravagar2/shell-social-network)
+For testing purposes, we have implemented a simple social network and uploaded to GitHub (https://github.com/ravaga/shell-social-network)
 
 ## License
 Apache 2.0
